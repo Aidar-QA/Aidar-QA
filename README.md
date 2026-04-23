@@ -91,20 +91,21 @@ https://stepik.org/cert/3161631)
 * Для запуска буду использовать pycharm вставляем папку
 * Запускаем локально через docker пишем ```docker compose up -d ```
 <br>
-<img width="1184" height="374" alt="image" src="https://github.com/user-attachments/assets/52142e9c-32b0-4c70-a83b-41048ba02b9a" />
+<img width="1184" height="374" alt="1" src="https://github.com/user-attachments/assets/70913739-437e-4dcf-837d-c3c9589870ba" />
 <br>
 
   * Использовав команду ```docker stop qa_microstaff-main-order-worker-orders-1``` чтобы увидеть как выгдлядит заказ в RabbitMQ
   
 <br>
 
-<img width="753" height="45" alt="image" src="https://github.com/user-attachments/assets/e5eb6788-e654-46fa-af34-26decad8bb37" />
+<img width="753" height="45" alt="2" src="https://github.com/user-attachments/assets/7a88b856-8bfb-4068-b6a1-3e765099c61f" />
+
  <br>
  
 * Инициация бизнес-процесса: Эмуляция действий пользователя на фронтенде маркетплейса. При оформлении заказа фронтенд отправляет запрос к API, запуская цепочку взаимодействий между микросервисами.
 
 <br>
-<img width="847" height="618" alt="image" src="https://github.com/user-attachments/assets/adea26c0-f358-4901-bf56-36ba71a54998" />
+<img width="847" height="618" alt="3" src="https://github.com/user-attachments/assets/a198138c-6577-453f-866d-ef841c758c42" />
 <br>
 
 
@@ -114,53 +115,55 @@ https://stepik.org/cert/3161631)
 * Trace ID для Tempo: b1ba59b8bc00e8887dd3c0e0444f610b
 
 <br>
-<img width="627" height="415" alt="image" src="https://github.com/user-attachments/assets/68b6c14e-af53-463b-8a86-2e10a531640e" />
+<img width="627" height="415" alt="4" src="https://github.com/user-attachments/assets/6198c40e-a67b-452a-8e8c-f69b92277f8e" />
 <br>
 
 
 * Также есть удобная плашка снизу чтобы посмотреть
 <br>
-<img width="732" height="140" alt="image" src="https://github.com/user-attachments/assets/081226d2-eb55-4915-8117-9bdd120f19cd" />
+<img width="732" height="140" alt="51" src="https://github.com/user-attachments/assets/39f54a84-344e-4d42-ba20-cd50b3f5f3a1" />
 <br>
 
 * В консоли RabbitMQ проверяем очередь order_requests. Видим, что сообщение успешно доставлено в брокер и ожидает обработки, что подтверждает надежность передачи данных.
   <br>
- <img width="876" height="715" alt="image" src="https://github.com/user-attachments/assets/6ca31824-5dba-412d-a8b2-8641ce0b2510" />
+<img width="876" height="715" alt="5" src="https://github.com/user-attachments/assets/cb2b43a6-faa3-4379-aaa2-db7388b3ca18" />
+
 <br>
 
 * Использовав команду docker start qa_microstaff-main-order-worker-orders-1 чтобы заказ улетел в kafka. После запуска воркера сообщение обрабатывается и транслируется в топик payment_requests. С помощью UI для Kafka проверяем содержимое сообщения: видим корректный traceId и данные о платеже.
 * В kafka водим OrderID и видим данные заказа
   
 <br>
-<img width="897" height="632" alt="image" src="https://github.com/user-attachments/assets/d816528a-ed37-4c57-8d5c-7a56bbcc13ec" />
+<img width="897" height="632" alt="6" src="https://github.com/user-attachments/assets/6cb48c02-e58b-40f9-8dcc-f73f443a4daf" />
  <br>
   
 * Анализ системы через Grafana: Переходим к инструментам мониторинга для визуализации всего пути запроса.
 
 <br>
-<img width="1273" height="716" alt="image" src="https://github.com/user-attachments/assets/0cff6f73-5fe8-48f9-a9e9-3996c3c3bef3" />
+<img width="1273" height="716" alt="7" src="https://github.com/user-attachments/assets/d918c2fb-a36a-4afc-970a-bbd0dd3b5ff3" />
+
 <br>
 
 * Используя otelTraceId, получаем детальный граф вызовов (Spans). Это позволяет увидеть время обработки запроса каждым микросервисом (от order-api до payment-service) и выявить узкие места или ошибки в цепочке.
   
 <br>
-<img width="891" height="191" alt="image" src="https://github.com/user-attachments/assets/3de19137-67e5-4ed6-bc52-da6c1663a116" />
+<img width="891" height="191" alt="8" src="https://github.com/user-attachments/assets/594485ca-ddb8-410e-a49e-87846b59fd71" />
 <br>
 
 * Ниже видим данные
   
 <br>
-<img width="579" height="1016" alt="image" src="https://github.com/user-attachments/assets/8b054a2c-73a2-47a1-b889-44a391a4668d" />
+<img width="579" height="1016" alt="9" src="https://github.com/user-attachments/assets/f000e40f-ff12-4d22-a2ac-b7908873dc83" />
 <br>
 
 * Агрегация логов в Grafana Loki: > Фильтруем логи по traceId, чтобы собрать воедино записи от всех задействованных сервисов. Это обеспечивает «сквозное видение»: мы видим контекст выполнения каждой операции и системные события в единой ленте времени.
 <br>
-<img width="810" height="312" alt="image" src="https://github.com/user-attachments/assets/47fc475c-9d7c-4ad0-b025-295893f9446a" />
+<img width="810" height="312" alt="111" src="https://github.com/user-attachments/assets/a2a22dfc-1e68-4ec8-b53f-78bf83c0df2b" />
 <br>
 
 * Ниже данные
 <br>
-  <img width="1250" height="906" alt="image" src="https://github.com/user-attachments/assets/32933935-e707-49cc-becd-c55f4a648504" />
+  <img width="1250" height="906" alt="112" src="https://github.com/user-attachments/assets/4bd56f88-2b09-4ac3-9306-97278c361ce3" />
 <br>
 
 
