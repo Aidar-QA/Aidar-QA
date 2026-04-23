@@ -8,7 +8,7 @@
 [Пройденные курсы](#kursy)<br>
 
 
-[Технологический стек](#stek)<br>
+[Навыки и технологии](#stek)<br>
 
 
 [Pet-проекты](#pet-projects)
@@ -50,6 +50,8 @@ https://stepik.org/cert/3161631)
 
 
  <p align="right"><a href="#nachalo">🏠 Наверх</a></p>
+ 
+## <a name="stek" /> ⚙️ Навыки и технологии
 
 ### 🔍 Тестирование API и Frontend
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Charles Proxy](https://img.shields.io/badge/Charles-4298B8?style=for-the-badge&logo=charlesproxy&logoColor=white)
