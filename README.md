@@ -188,3 +188,61 @@ https://stepik.org/cert/3161631)
   * [Severity и Priority](https://docs.google.com/spreadsheets/d/1TdqQRmBk24WHRX3N8h7EhU9tJ71zRJ-O92WEFRx8vwo/edit?usp=sharing)
 
  <p align="right"><a href="#nachalo">🏠 Наверх</a></p>
+
+ ## <a name="avtotesty" /> 🤖  Автотесты Playwright+Pytest+Allure
+ 
+* Автоматизировал тест-кейсы для сайта с применение приципов ООП на Playwright+Pytest+Allure
+  
+<br>
+<img width="318" height="530" alt="image" src="https://github.com/user-attachments/assets/e962a98d-dfcd-46ad-afa8-687976e01c15" />
+<br>
+
+
+
+  
+
+
+
+
+
+
+* Регистрация пользователя (успешно)
+
+
+https://github.com/user-attachments/assets/0e833ac4-c0f2-4198-8fe1-d21f6c9644bb
+
+
+
+
+* Авторизация пользователя (провалено, не перешло на главную страницу)
+
+
+https://github.com/user-attachments/assets/31e17e89-3d74-4152-9eb8-13f03467b622
+
+
+* Поиск по части названия (успешно)
+
+
+https://github.com/user-attachments/assets/feeda5a7-1c39-4876-86a0-1b8cdf25591d
+
+
+* Фильтрация по одному фильтру (успешно)
+
+
+https://github.com/user-attachments/assets/c9857d63-86f9-4dc9-9853-447f5d208982
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <p align="right"><a href="#nachalo">🏠 Наверх</a></p>
+
