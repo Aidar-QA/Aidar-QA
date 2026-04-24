@@ -21,10 +21,6 @@
 
 
 
-[Тестирование сайта магазина](#magazin)<br>
-
-
-
 [Автотесты Playwright+Pytest+Allure](#avtotesty)<br>
 
 
