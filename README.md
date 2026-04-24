@@ -21,6 +21,12 @@
 
 
 
+[Тестирование сайта магазина](#magazin)<br>
+
+
+
+[Автотесты Playwright+Pytest+Allure](#avtotesty)<br>
+
 
 ---
 ## <a name="o-sebe" />😊 О себе
