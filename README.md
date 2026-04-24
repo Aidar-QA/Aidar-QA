@@ -197,7 +197,7 @@ https://stepik.org/cert/3161631)
 
  ## <a name="avtotesty" /> 🤖  Автотесты Playwright+Pytest+Allure
  
-* Автоматизировал тест-кейсы для [Shop.bugred.ru](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725) с применение принципов ООП на Playwright+Pytest+Allure
+* Автоматизировал тест-кейсы для [shop.bugred.ru](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725) с применение принципов ООП на Playwright+Pytest+Allure
   
 <br>
 <img width="318" height="530" alt="image" src="https://github.com/user-attachments/assets/e962a98d-dfcd-46ad-afa8-687976e01c15" />
