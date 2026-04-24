@@ -185,19 +185,19 @@ https://stepik.org/cert/3161631)
  
 ## <a name="magazin" /> 🛒 Тестирование сайта магазина. Shop.bugred.ru
 
-* Сайт — [Shop.bugred.ru](http://shop.bugred.ru/) 
+* Сайт — [shop.bugred.ru](http://shop.bugred.ru/) 
   
 * Требования (Confluence) — [ТЗ](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725)
 * Тестрирование интерфейса — [Тест-кейсы](https://docs.google.com/spreadsheets/d/1ncKKmOBcFOsHKCPvpORM8cJQtWRI3fTf53EkzSXpFBk/edit?usp=sharing)
 * Тестирование API — [Тест-кейсы](https://docs.google.com/spreadsheets/d/15voDxGvLBQViuSo09kAVD1QbDqjgfhKqalepgVO3NoY/edit?usp=sharing)
-* Баг-репорты — [Баг-репорты](https://docs.google.com/spreadsheets/d/1z5BFfMaN0wCy9Y5xgoQ74qOW7GrUjt-ecxUCHiq8zV0/edit?usp=sharing)
+* Отчеты об ошибках — [Баг-репорты](https://docs.google.com/spreadsheets/d/1z5BFfMaN0wCy9Y5xgoQ74qOW7GrUjt-ecxUCHiq8zV0/edit?usp=sharing)
   * [Severity и Priority](https://docs.google.com/spreadsheets/d/1TdqQRmBk24WHRX3N8h7EhU9tJ71zRJ-O92WEFRx8vwo/edit?usp=sharing)
 
  <p align="right"><a href="#nachalo">🏠 Наверх</a></p>
 
  ## <a name="avtotesty" /> 🤖  Автотесты Playwright+Pytest+Allure
  
-* Автоматизировал тест-кейсы для сайта с применение принципов ООП на Playwright+Pytest+Allure
+* Автоматизировал тест-кейсы для [Shop.bugred.ru](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725) с применение принципов ООП на Playwright+Pytest+Allure
   
 <br>
 <img width="318" height="530" alt="image" src="https://github.com/user-attachments/assets/e962a98d-dfcd-46ad-afa8-687976e01c15" />
