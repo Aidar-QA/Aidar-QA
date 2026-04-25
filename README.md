@@ -196,7 +196,7 @@ https://stepik.org/cert/3161631)
 * Автоматизировал тест-кейсы для [shop.bugred.ru](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725) с применением принципов ООП на Playwright+Pytest+Allure
   
 <br>
-<img width="302" height="489" alt="NVIDIA_Overlay_jRclRktRHz" src="https://github.com/user-attachments/assets/d39877a1-e133-4dde-b019-b3d0f03deadb" />
+<img width="293" height="388" alt="Code_tyFO3W4AnW" src="https://github.com/user-attachments/assets/2467cbc6-9bb9-47f4-b998-5c6becbeac9b" />
 <br>
 
 
