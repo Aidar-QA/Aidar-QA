@@ -1,3 +1,4 @@
+
 # <a name="nachalo" /> 👋 Привет, я Айдар QA Engineer
 
 </div>
@@ -196,7 +197,7 @@ https://stepik.org/cert/3161631)
 * Автоматизировал тест-кейсы для [shop.bugred.ru](https://testbase.atlassian.net/wiki/spaces/SHOP/pages/1961788725) с применением принципов ООП на Playwright+Pytest+Allure
   
 <br>
-<img width="293" height="388" alt="Code_tyFO3W4AnW" src="https://github.com/user-attachments/assets/2467cbc6-9bb9-47f4-b998-5c6becbeac9b" />
+<img width="300" height="409" alt="NVIDIA_Overlay_BAjzetkGkD" src="https://github.com/user-attachments/assets/7532b4a4-1288-4635-8426-0227d43e3c65" />
 <br>
 
 
@@ -211,7 +212,11 @@ https://stepik.org/cert/3161631)
 * Регистрация пользователя (успешно)
 
 
-https://github.com/user-attachments/assets/0e833ac4-c0f2-4198-8fe1-d21f6c9644bb
+
+
+https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
+
+
 
 
 
@@ -219,19 +224,80 @@ https://github.com/user-attachments/assets/0e833ac4-c0f2-4198-8fe1-d21f6c9644bb
 * Авторизация пользователя (провалено, не перешло на главную страницу)
 
 
-https://github.com/user-attachments/assets/31e17e89-3d74-4152-9eb8-13f03467b622
 
 
-* Поиск по части названия (успешно)
+https://github.com/user-attachments/assets/4646ad4b-5358-4318-8b47-4f7403b8bbe1
 
 
-https://github.com/user-attachments/assets/feeda5a7-1c39-4876-86a0-1b8cdf25591d
+
+* Поиск по части названия товара (успешно)
 
 
-* Фильтрация по одному фильтру (успешно)
 
 
-https://github.com/user-attachments/assets/c9857d63-86f9-4dc9-9853-447f5d208982
+
+https://github.com/user-attachments/assets/26111575-a183-42ec-93f3-1d9567cff248
+
+
+
+
+
+* Фильтрация по одному цвету (успешно)
+
+
+
+
+https://github.com/user-attachments/assets/fc758f72-8a75-44a2-8457-19d28353e12f
+
+
+
+* Фильтрация по одному размеру (успешно)
+
+
+https://github.com/user-attachments/assets/999b9b72-2e0b-4810-9f0e-531de1dcb4e0
+
+
+* Поиск по цене (успешно)
+
+
+
+https://github.com/user-attachments/assets/76264d38-129e-4512-8798-06f04fd53f1d
+
+
+
+
+* Добавление товара в корзину (успешно)
+
+
+https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
+
+
+* Добавление товара в корзину (успешно)
+
+
+https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
+
+
+* Покупка товара (успешно)
+
+
+https://github.com/user-attachments/assets/1b4c4b82-7f74-4a94-81f5-f481661906cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
