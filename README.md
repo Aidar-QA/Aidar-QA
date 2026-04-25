@@ -87,7 +87,7 @@ https://stepik.org/cert/3161631)
 
 # <a name="pet-projects" /> Pet-проекты
 
-## <a name="microservice" /> 📊 Тестирование микросервисов маркетплейса. Сквозное отслеживание заказа через RabbitMQ, Kafka и Grafana.
+## <a name="microservice" /> 📊 Тестирование микросервисов маркетплейса. Сквозное тестирование (E2E) и отслеживание заказа через RabbitMQ, Kafka и Grafana.
 
 * Проект: Исследование распределенного отслеживания (Observability) в микросервисной архитектуре.
 * Стек: RabbitMQ, Kafka, Grafana, Loki, Tempo.
