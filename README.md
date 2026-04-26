@@ -208,6 +208,61 @@ https://stepik.org/cert/3161631)
 
 
 
+
+
+
+
+
+
+
+* Фильтрация по одному цвету (успешно)
+
+
+
+
+https://github.com/user-attachments/assets/fc758f72-8a75-44a2-8457-19d28353e12f
+
+
+
+
+* Фильтрация по одному размеру (успешно)
+
+
+https://github.com/user-attachments/assets/999b9b72-2e0b-4810-9f0e-531de1dcb4e0
+
+
+* Поиск по цене (успешно)
+
+
+
+https://github.com/user-attachments/assets/76264d38-129e-4512-8798-06f04fd53f1d
+
+
+
+* Поиск по части названия товара (успешно)
+
+
+
+
+
+https://github.com/user-attachments/assets/26111575-a183-42ec-93f3-1d9567cff248
+
+
+
+
+* Добавление товара в корзину (успешно)
+
+
+https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
+
+
+* Покупка товара (успешно)
+
+
+https://github.com/user-attachments/assets/1b4c4b82-7f74-4a94-81f5-f481661906cc
+
+
+
 * Авторизация пользователя (успешно)
 
 
@@ -226,64 +281,6 @@ https://github.com/user-attachments/assets/4646ad4b-5358-4318-8b47-4f7403b8bbe1
 
 
 https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
-
-
-
-* Поиск по части названия товара (успешно)
-
-
-
-
-
-https://github.com/user-attachments/assets/26111575-a183-42ec-93f3-1d9567cff248
-
-
-
-
-
-* Фильтрация по одному цвету (успешно)
-
-
-
-
-https://github.com/user-attachments/assets/fc758f72-8a75-44a2-8457-19d28353e12f
-
-
-
-* Фильтрация по одному размеру (успешно)
-
-
-https://github.com/user-attachments/assets/999b9b72-2e0b-4810-9f0e-531de1dcb4e0
-
-
-* Поиск по цене (успешно)
-
-
-
-https://github.com/user-attachments/assets/76264d38-129e-4512-8798-06f04fd53f1d
-
-
-
-
-* Добавление товара в корзину (успешно)
-
-
-https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
-
-
-* Добавление товара в корзину (успешно)
-
-
-https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
-
-
-* Покупка товара (успешно)
-
-
-https://github.com/user-attachments/assets/1b4c4b82-7f74-4a94-81f5-f481661906cc
-
-
-
 
 
 
