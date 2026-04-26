@@ -213,7 +213,7 @@ https://stepik.org/cert/3161631)
 
 
 
-https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
+https://github.com/user-attachments/assets/4646ad4b-5358-4318-8b47-4f7403b8bbe1
 
 
 
@@ -225,7 +225,7 @@ https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
 
 
 
-https://github.com/user-attachments/assets/4646ad4b-5358-4318-8b47-4f7403b8bbe1
+https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
 
 
 
