@@ -220,7 +220,11 @@ https://stepik.org/cert/3161631)
 
 
 
-https://github.com/user-attachments/assets/fc758f72-8a75-44a2-8457-19d28353e12f
+
+
+https://github.com/user-attachments/assets/5016e436-60a8-48c0-a1c8-0afdcdfed89b
+
+
 
 
 
@@ -228,14 +232,22 @@ https://github.com/user-attachments/assets/fc758f72-8a75-44a2-8457-19d28353e12f
 * Фильтрация по одному размеру (успешно)
 
 
-https://github.com/user-attachments/assets/999b9b72-2e0b-4810-9f0e-531de1dcb4e0
+
+
+https://github.com/user-attachments/assets/03076290-11cf-4d5f-80a3-b19fbdab3a56
+
+
 
 
 * Поиск по цене (успешно)
 
 
 
-https://github.com/user-attachments/assets/76264d38-129e-4512-8798-06f04fd53f1d
+
+
+https://github.com/user-attachments/assets/582f4a6e-80b4-488a-895d-a4e1f7578c2c
+
+
 
 
 
@@ -245,7 +257,11 @@ https://github.com/user-attachments/assets/76264d38-129e-4512-8798-06f04fd53f1d
 
 
 
-https://github.com/user-attachments/assets/26111575-a183-42ec-93f3-1d9567cff248
+
+
+https://github.com/user-attachments/assets/9528973f-6116-4e70-b225-0ce41e592eb7
+
+
 
 
 
@@ -253,13 +269,20 @@ https://github.com/user-attachments/assets/26111575-a183-42ec-93f3-1d9567cff248
 * Добавление товара в корзину (успешно)
 
 
-https://github.com/user-attachments/assets/e613c534-1184-4d0c-8de6-d7280456fe0b
+
+
+https://github.com/user-attachments/assets/c7a1eb47-79cc-46df-8a6c-d23ea73961cd
+
 
 
 * Покупка товара (успешно)
 
 
-https://github.com/user-attachments/assets/1b4c4b82-7f74-4a94-81f5-f481661906cc
+
+
+https://github.com/user-attachments/assets/79c41937-fc53-408c-a05a-fae64b155a1c
+
+
 
 
 
@@ -268,7 +291,11 @@ https://github.com/user-attachments/assets/1b4c4b82-7f74-4a94-81f5-f481661906cc
 
 
 
-https://github.com/user-attachments/assets/4646ad4b-5358-4318-8b47-4f7403b8bbe1
+
+
+https://github.com/user-attachments/assets/4358713c-f6c8-4afe-867f-95176cd9ce4d
+
+
 
 
 
