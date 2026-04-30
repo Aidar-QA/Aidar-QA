@@ -22,7 +22,11 @@
 
 
 
-[Автотесты Playwright+Pytest+Allure](#avtotesty)<br>
+[Автотесты Playwright+Pytest+Allure](#avtotesty) <br>
+
+
+
+[Обновление кода](#ver2) <br>
 
 
 ---
@@ -310,27 +314,37 @@ https://github.com/user-attachments/assets/4358713c-f6c8-4afe-867f-95176cd9ce4d
 https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
 
 
-
+## <a name="ver2" /> Обновление кода
 
 * Оптимизация архитектуры: Проведен полный рефакторинг кода и тестов. Реализован базовый класс BasePage, от которого наследуются все остальные страницы, что позволило вынести общую логику (например, метод navigate) в одно место.
 * Page Object Model: Созданы новые классы для отдельных страниц магазина (LoginPage, RegisterPage, HistoryOrdersPage и др.), что улучшило масштабируемость проекта.
 * Чистота кода: Удалено дублирование кода в conftest.py, логика инициализации страниц вынесена в отдельные фикстуры.
 * Оптимизация авторизации: Внедрена фикстура auth_state с областью видимости session. Она выполняет вход один раз и сохраняет состояние (куки и сессию) в файл auth_state.json, что значительно ускоряет прохождение тестов, требующих авторизации. 
 
- <img width="260" height="627" alt="image" src="https://github.com/user-attachments/assets/70175a81-fd75-468d-b04a-a5809920edeb" />
+ <img width="248" height="546" alt="image" src="https://github.com/user-attachments/assets/372afbe7-2989-4a23-a55b-46dcb3f24f66" />
+
 
 *  Отображение списка заказов для авторизованного пользователя (успешно) 
 
 
 
-https://github.com/user-attachments/assets/f0b86247-28db-458e-b1c7-6261a7cf74f9
+<video src="https://github.com/user-attachments/assets/f0b86247-28db-458e-b1c7-6261a7cf74f9" title="default.mp4" controls width="600"></video>
 
 
 
 * Регистрация с пустым именем (успешно)
 
 
-https://github.com/user-attachments/assets/08baca9b-6392-4651-8b93-6bd20491cde6
+<video src="https://github.com/user-attachments/assets/c308dc1d-9d1a-4a11-8476-454b27929cab" controls width="600"></video>
+
+
+
+
+
+
+
+
+
 
 
 
