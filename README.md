@@ -321,7 +321,8 @@ https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
 * Чистота кода: Удалено дублирование кода в conftest.py, логика инициализации страниц вынесена в отдельные фикстуры.
 * Оптимизация авторизации: Внедрена фикстура auth_state с областью видимости session. Она выполняет вход один раз и сохраняет состояние (куки и сессию) в файл auth_state.json, что значительно ускоряет прохождение тестов, требующих авторизации. 
 
- <img width="248" height="546" alt="image" src="https://github.com/user-attachments/assets/372afbe7-2989-4a23-a55b-46dcb3f24f66" />
+<img width="250" height="526" alt="image" src="https://github.com/user-attachments/assets/809c48b9-5e2b-489a-818c-794399b65fb3" />
+
 
 
 *  Отображение списка заказов для авторизованного пользователя (успешно) 
