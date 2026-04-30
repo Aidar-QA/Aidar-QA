@@ -328,14 +328,25 @@ https://github.com/user-attachments/assets/141ba7dc-cdcd-44f2-92fd-1301c96071d2
 
 
 
-<video src="https://github.com/user-attachments/assets/f0b86247-28db-458e-b1c7-6261a7cf74f9" title="default.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/276969ec-eea2-4ec9-94c8-6957ca80dafa
+
+
 
 
 
 * Регистрация с пустым именем (успешно)
 
 
-<video src="https://github.com/user-attachments/assets/c308dc1d-9d1a-4a11-8476-454b27929cab" controls width="600"></video>
+
+
+
+https://github.com/user-attachments/assets/e20d264d-2173-4b78-bfec-2bce64b2a5e6
+
+
+
+
 
 
 
